@@ -1,0 +1,9 @@
+.ul {
+    display: flex;
+
+}
+
+.ul li {
+    color: black;
+    list-style: none;
+}

@@ -1,0 +1,47 @@
+* {
+    
+    
+}
+
+.actions {
+    padding-top: 20px;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    
+ 
+}
+
+.actions button {
+font-size: 30px;
+font-size: 30px;
+    border-radius: 5px;
+    background-color: tomato;
+    font-weight: bold;
+background-color: tomato;
+font-weight: bold;
+border-color: black;
+}
+
+.actions button:hover {
+opacity: 0.7;
+}
+
+
+#cabeçalho {
+    height: 150px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0qfENxFJ8GCHuHbebuRbYippXG1zS2rWIuFmnBnPCP5krlWH&s);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#titulo {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
